@@ -1,0 +1,13 @@
+# Prvo napravi virtualno okruženje (nije obavezno, ali je preporučeno)
+python -m venv venv
+# Aktiviraj virtuelno okruženje:
+# Windows:
+venv\Scripts\activate
+# macOS/Linux:
+source venv/bin/activate
+
+# Instaliraj potrebne biblioteke
+pip install flask scikit-learn pandas joblib flask-cors
+
+# Sačuvaj u requirements.txt
+pip freeze > requirements.txt
