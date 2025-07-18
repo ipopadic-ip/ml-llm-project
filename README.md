@@ -10,6 +10,14 @@ This is a **full stack application** that combines:
 
 ---
 
+## 📺 Watch Demo Video
+
+[![Watch the demo video](https://img.youtube.com/vi/--2VfEpgXP4/0.jpg)](https://youtu.be/--2VfEpgXP4?si=l0fK2u9iiQSHUVTU)
+
+▶️ **Click the image above to watch the demo video on YouTube.**
+
+ ---
+
 ## 🚀 Features
 
 - ✅ **Checks** if a password has been breached using [HaveIBeenPwned](https://haveibeenpwned.com/)
